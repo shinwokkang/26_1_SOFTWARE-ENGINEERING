@@ -18,9 +18,9 @@
 ### 👤 [안예슬해] (회원 관리 도메인 담당)
 * **주요 역할:** --
 * **상세 수행 내용:**
-    * **Requirement List:** -- 
-    * **UI Design:** -- 
-    * **UML Modeling:** -- 
+    * **Requirement List:** 회원관리(회원가입,회원탈퇴,회원 로그인, 관리자 로그인,로그아웃)
+    * **UI Design:** -- Figma를 활용하여 
+    * **UML Modeling:** -- StarUML을 사용하여 `<<extend>>` 관계를 포함한 Use Case Diagram 작성 
     * **Use Case Description:** -- 
 
 ### 👤 [이성탁] (설문 참여 도메인 담당)
