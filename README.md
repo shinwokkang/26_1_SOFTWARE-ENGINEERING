@@ -19,21 +19,21 @@
 
 ### 👤 [안예슬해] (회원 관리 도메인 담당)
 
-- **주요 역할:** --
+- **주요 역할:** 회원 관리 시스템 설계
 - **상세 수행 내용:**
   - **Requirement List:** 회원관리(회원가입,회원탈퇴,회원 로그인, 관리자 로그인,로그아웃)
-  - **UI Design:** -- Figma를 활용하여 담당 기능의 UI화면(회원가입 화면,로그 인 화면,로그아웃 화면(마이페이지),회원탈퇴 화면) 작성
+  - **UI Design:** -- [Figma](https://www.figma.com/design/humQWwLh6EcrMXSs1sJ9dJ/%EC%9D%80%EC%86%8C%EA%B3%B5_UI?node-id=1-4&t=8eKC3QVjGrjK7h71-1)를 활용하여 담당 기능의 UI화면(회원가입 화면,로그 인 화면,로그아웃 화면(마이페이지),회원탈퇴 화면) 작성
   - **UML Modeling:** -- StarUML을 이용하여 담당 기능의 독립적인 Use Case Diagram 작성 usecase:Sign up, Login, Logout, Withdrawal
   - **Use Case Description:** -- Actor-System 간 Step-by-step 상호작용 명세 작성
 
 ### 👤 [이성탁] (설문 참여 도메인 담당)
 
-- **주요 역할:** --
+- **주요 역할:** 회원 설문 검색 및 응답 시스템 설계
 - **상세 수행 내용:**
-  - **Requirement List:** --
-  - **UI Design:** --
-  - **UML Modeling:** --
-  - **Use Case Description:** --
+  - **Requirement List:** 설문 검색, 설문 정보 상세 조회, 설문 응답 기능 도출
+  - **UI Design:** [Figma](https://www.figma.com/design/humQWwLh6EcrMXSs1sJ9dJ/%EC%9D%80%EC%86%8C%EA%B3%B5_UI?node-id=1-4&t=8eKC3QVjGrjK7h71-1)를 활용하여 설문 검색, 설문 정보 상세 조회, 설문 응답 3종 화면 설계
+  - **UML Modeling:** StarUML을 사용하여 `<<extend>>` 관계를 포함한 Use Case Diagram 작성
+  - **Use Case Description:** Actor-System 간 Step-by-step 상호작용 명세 작성
 
 ---
 
