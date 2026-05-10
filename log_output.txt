@@ -1,0 +1,36 @@
+https://github.com/shinwokkang/26_1_SOFTWARE-ENGINEERING
+
+[st1748] Sun May 10 20:45:59 2026 +0900 Add seongtak documents 81a3a7f
+[st1748] Sun May 10 20:30:39 2026 +0900 Add final usecase diagram 7356791
+[anyeasulhea0215] Sun May 10 15:53:48 2026 +0900 Merge pull request #10 from shinwokkang/anyeasulheabranch 2fc3295
+[anyeasulhea] Sun May 10 15:51:13 2026 +0900 파일위치 수정 4fb071d
+[anyeasulhea0215] Sun May 10 15:38:43 2026 +0900 Merge pull request #9 from shinwokkang/anyeasulheabranch 714ead7
+[anyeasulhea] Sun May 10 15:14:40 2026 +0900 [anyeasul] README 및 파일 경로 충돌 해결 완료 05ae11b
+[anyeasulhea] Sun May 10 15:00:36 2026 +0900 ui pdf 파일로 변환 450abbe
+[anyeasulhea] Sun May 10 14:50:01 2026 +0900 [anyeasul] 회원 관리 파트 UI 통합 및 유스케이스 명세서 폴더 구조 최종 정리 dba6375
+[anyeasulhea0215] Sun May 10 14:33:11 2026 +0900 Enhance README with detailed UI and UML information daee8d5
+[st1748] Sun May 10 00:15:53 2026 +0900 Update README.md cfce592
+[shinwokkang] Sat May 9 23:52:39 2026 +0900 Merge pull request #8 from shinwokkang/final fefccac
+[shinwookkang] Sat May 9 21:03:41 2026 +0900 Requirement List 취합 53c503e
+[shinwokkang] Sat May 9 21:01:07 2026 +0900 Merge pull request #7 from shinwokkang/shinwooks 968fbfe
+[shinwookkang] Sat May 9 20:27:17 2026 +0900 UI 추가 및 usecase Diagram .pdf 파일로 변환 1beaa10
+[anyeasulhea] Sat May 9 18:23:39 2026 +0900 폴더구조 변경 및 ui 추가 0eb4371
+[st1748] Sat May 9 18:06:12 2026 +0900 Update README.md 714aa5c
+[shinwokkang] Sat May 9 12:38:20 2026 +0900 Merge pull request #2 from shinwokkang/shinwook/usecase_diagram ef8df5b
+[shinwookkang] Sat May 9 12:37:53 2026 +0900 Merge branch 'shinwooks' of https://github.com/shinwokkang/26_1_SOFTWARE-ENGINEERING into shinwook/usecase_diagram 5514103
+[shinwokkang] Sat May 9 12:37:27 2026 +0900 Merge pull request #3 from shinwokkang/shinwook/usecase_description 00c1eba
+[shinwookkang] Sat May 9 12:37:03 2026 +0900 UseCase Descriptions 수정 cb2170b
+[shinwookkang] Sat May 9 12:35:54 2026 +0900 Merge branch 'shinwooks' of https://github.com/shinwokkang/26_1_SOFTWARE-ENGINEERING into shinwook/usecase_description c0746e4
+[shinwookkang] Sat May 9 12:35:17 2026 +0900 Merge branch 'shinwooks' of https://github.com/shinwokkang/26_1_SOFTWARE-ENGINEERING into shinwook/usecase_diagram 657db01
+[shinwokkang] Sat May 9 12:33:29 2026 +0900 Merge pull request #1 from shinwokkang/shinwook/requirement_list b42ac20
+[shinwookkang] Sat May 9 12:32:42 2026 +0900 Requirement List 수정 131889f
+[anyeasulhea] Fri May 8 21:10:45 2026 +0900 Usecase discription,usecase diagram 작성 및 업로드 f95c8fc
+[anyeasulhea0215] Thu May 7 15:43:03 2026 +0900 Merge pull request #5 from shinwokkang/revert-4-anyeasulheabranch b71c3e4
+[anyeasulhea0215] Thu May 7 15:42:34 2026 +0900 Revert "안예슬해 requirement list" de779a1
+[anyeasulhea0215] Thu May 7 15:39:41 2026 +0900 Merge pull request #4 from shinwokkang/anyeasulheabranch 1291be5
+[anyeasulhea] Thu May 7 15:37:10 2026 +0900 안예슬해 requirement list 9eb23ef
+[anyeasulhea0215] Thu May 7 15:25:32 2026 +0900 Revise member management section in README e9bef75
+[shinwookkang] Thu May 7 11:41:21 2026 +0900 feat: 관리자용 설문 관리 및 통계 시스템 설계 usecase_diagram 기반 usecase_description 설계 4c813c5
+[shinwookkang] Thu May 7 11:40:28 2026 +0900 feat: 관리자용 설문 관리 및 통계 시스템 설계 usecase_diagram 설계 b4edb0f
+[shinwookkang] Thu May 7 11:33:40 2026 +0900 feat: 관리자용 설문 관리 및 통계 시스템 설계 requirement_list 설계 f5eafbd
+[shinwookkang] Thu May 7 11:24:56 2026 +0900 feat: README.md 파일 추가 555f7de
