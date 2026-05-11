@@ -1,5 +1,7 @@
-https://github.com/shinwokkang/26_1_SOFTWARE-ENGINEERING
-
+[anyeasulhea0215] Mon May 11 22:06:26 2026 +0900 Merge pull request #11 from shinwokkang/anyeasulheabranch 5576273
+[anyeasulhea] Mon May 11 22:04:46 2026 +0900 Merge branch 'main' of github.com:shinwokkang/26_1_SOFTWARE-ENGINEERING into anyeasulheabranch 3c9a4e2
+[anyeasulhea] Mon May 11 22:04:21 2026 +0900 final UI,Description 수정 573e16b
+[shinwookkang] Sun May 10 22:34:11 2026 +0900 feat: git commit history 파일 업로드 33ea0fa
 [st1748] Sun May 10 20:45:59 2026 +0900 Add seongtak documents 81a3a7f
 [st1748] Sun May 10 20:30:39 2026 +0900 Add final usecase diagram 7356791
 [anyeasulhea0215] Sun May 10 15:53:48 2026 +0900 Merge pull request #10 from shinwokkang/anyeasulheabranch 2fc3295
